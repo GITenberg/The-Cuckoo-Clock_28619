@@ -1,0 +1,40 @@
+_repo: The-Cuckoo-Clock_28619
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kirk, Maria Louise
+    aliases:
+    - Kirk, Maria L.
+    - Kirk, M. L. (Maria Louise)
+    birthdate: 1860
+    gutenberg_agent_id: '9513'
+    url: http://www.gutenberg.org/2009/agents/9513
+covers:
+- cover_type: archival
+  image_path: 28619-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Molesworth, Mary Louisa Stewart
+    - Mrs. (Mary Louisa) Molesworth
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2009-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28619'
+  lccn: '14017992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+title: The Cuckoo Clock
+url: http://www.gutenberg.org/ebooks/28619
